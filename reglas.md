@@ -59,6 +59,17 @@ Si no puede hacerlo, debe **robar una carta** del mazo:
 Cuando un jugador tiene **solo una carta**, debe gritar **“UNO”**.  
 - Si otro jugador lo nota antes de que el jugador lo diga, el jugador olvidadizo debe **robar 2 cartas**.
 
+## 🪜 Regla opcional: Escalera (Stacking Rule)
+Esta regla **no es oficial**, pero muchas personas la usan para hacer el juego más dinámico.
+
+Si un jugador recibe una carta de **roba dos (+2)** o **roba cuatro (+4)**, puede **responder con otra carta del mismo tipo**, acumulando el efecto para el siguiente jugador.  
+Ejemplo:
+- El jugador A juega un **+2**.  
+- El jugador B juega otro **+2**.  
+- El jugador C, si no tiene más **+2**, debe **robar 4 cartas** (la suma de ambos).
+
+También se puede permitir encadenar **cartas de distinto tipo (+2 y +4)**, si todos los jugadores están de acuerdo antes de comenzar la partida.
+
 ---
 
 ## 🏁 Fin de la ronda
