@@ -6,6 +6,7 @@
 - **Equilibrar colores**: No acumules muchas cartas del mismo color; mantén variedad para adaptarte.  
 - **Controlar el ritmo**: Si tienes la ventaja, acelera el juego; si vas perdiendo, retrásalo con cartas de reversa o salto.  
 - **Usar el “UNO” correctamente**: No olvides decir “UNO” al tener una carta, o tendrás que robar dos.
+- **Almacenar cartas**: se pueden almacenar cartas.
 
 ---
 
@@ -23,3 +24,4 @@
 - **UNO Minimalista**: Diseño simple, mismas reglas clásicas.  
 - **UNO All Wild**: Todas las cartas son comodines; el juego es más rápido e impredecible.  
 - **UNO BTS, UNO Mario, UNO Barbie, etc.**: Versiones temáticas con reglas o cartas únicas.  
+- **DOS**: coming soon.
