@@ -8,7 +8,7 @@ Este repositorio será usado para practicar trabajo colaborativo en GitHub.
 - Equipo 3: Historia y curiosidades
 
 ## Miembros del Equipo 2
-- Javica
+- Francisco Javier Casado Ruiz de Peralta Y Todos los Santos 
 - Vicky
 - Sergy
 - Samu
