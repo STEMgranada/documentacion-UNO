@@ -12,4 +12,4 @@ Este repositorio será usado para practicar trabajo colaborativo en GitHub.
 - Vicky
 - Sergy
 - Samu
-- Eva
+- Evaristo
