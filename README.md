@@ -6,3 +6,6 @@ Este repositorio será usado para practicar trabajo colaborativo en GitHub.
 - Equipo 1: Reglas del juego  
 - Equipo 2: Estrategias y variantes  
 - Equipo 3: Historia y curiosidades
+
+## Créditos
+Equipo numero 3
