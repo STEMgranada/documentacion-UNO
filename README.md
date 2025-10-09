@@ -9,3 +9,8 @@ Este repositorio será usado para practicar trabajo colaborativo en GitHub.
 
 # Créditos
 Documentación creada por los 3 equipos del aula de desarrollo web.
+-Jose
+-Eloy
+-Ángel
+-Oliver
+-Paula
