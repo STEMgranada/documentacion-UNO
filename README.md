@@ -8,4 +8,8 @@ Este repositorio será usado para practicar trabajo colaborativo en GitHub.
 - Equipo 3: Historia y curiosidades
 
 ## Créditos
-Equipo numero 3
+Jose
+Felix
+Antonio Jesus
+Pedro
+Andres
